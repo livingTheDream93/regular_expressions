@@ -1,0 +1,5 @@
+function validate(str){
+  var re = /^([1-9]|[01][0-9])\s+(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec|January|February|March|April|May|June|July|August|September|October|November|December)'\d{2}\s+(at)\s+([0-9]|[0|1][0-9])(am|pm)$/ig
+  
+
+}
